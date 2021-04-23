@@ -52,7 +52,7 @@
                  "value":"sounds\/WAIKIKI.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"https:\/\/formwandler-interactive.github.io\/workadventurev1\/RH_KICKOFF_V1\/sounds\/PARTY.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":"https:\/\/mechatronicart.ch\/x-mas-sticky-circuits-workshop\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
                  "value":"Zweigstelle_Bitw\u00e4scherei_ChaosPost"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
                  "value":"DigiGes"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":"https:\/\/dusjagr.hotglue.me\/?Chicken\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
          "name":"floorbottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -178,7 +178,7 @@
          "name":"BEACH BACKGROUND",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
