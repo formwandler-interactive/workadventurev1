@@ -85,7 +85,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/formwandler-interactive.github.io\/workadventurev1\/RH_KICKOFF_V1\/sounds\/WAIKIKI.mp3"
+                 "value":"https:\/\/storage.googleapis.com\/formwandler-interactive-webdesign-agentur-frankfurt\/WAIKIKI.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
