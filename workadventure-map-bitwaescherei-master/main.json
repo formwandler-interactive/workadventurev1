@@ -3,8 +3,7 @@
     {
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":39,
@@ -800,7 +799,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"hackteria\/hackteriaMIX_08.mp3"
+                 "value":"sounds\/WAIKIKI.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -818,7 +817,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"sounds\/omega%20attraktor%20-%20space%20time%20continuum%20-%2001%20starflow.mp3"
+                 "value":"sounds\/WAIKIKI.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -836,7 +835,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"hackteria\/06_GALLERY_SONG_01.mp3"
+                 "value":"sounds\/WAIKIKI.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1159,7 +1158,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -2345,6 +2344,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":81
 }
