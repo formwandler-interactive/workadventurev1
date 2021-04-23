@@ -119,12 +119,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"https:\/\/formwandler-interactive.github.io\/workadventurev1\/RH_KICKOFF_V1\/sounds\/WAIKIKI.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
