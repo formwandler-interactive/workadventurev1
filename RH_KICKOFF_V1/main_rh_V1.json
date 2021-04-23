@@ -85,7 +85,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/formwandler-interactive-webdesign-agentur-frankfurt\/WAIKIKI.mp3"
+                 "value":"sounds\/WAIKIKI.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
