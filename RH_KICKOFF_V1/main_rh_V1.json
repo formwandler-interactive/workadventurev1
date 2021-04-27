@@ -275,6 +275,51 @@
         }, 
         {
          "draworder":"topdown",
+         "id":94,
+         "name":"Texte Boden",
+         "objects":[
+                {
+                 "height":18.84375,
+                 "id":13,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"BEACHVOLLEYBALL",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150,
+                 "x":1622.35416666667,
+                 "y":1069.24479166667
+                }, 
+                {
+                 "height":18.84375,
+                 "id":14,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"FLOATING RESTAURANT",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":180,
+                 "x":696.354166666667,
+                 "y":1011.24479166667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -319,9 +364,69 @@
          "width":81,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":93,
+         "name":"Texte",
+         "objects":[
+                {
+                 "height":18.84375,
+                 "id":10,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"WAIKIKI BAR",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":100,
+                 "x":300.354166666667,
+                 "y":351.911458333333
+                }, 
+                {
+                 "height":18.84375,
+                 "id":11,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"LAGERFEUER",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":100,
+                 "x":1324.35416666667,
+                 "y":207.911458333333
+                }, 
+                {
+                 "height":18.84375,
+                 "id":12,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"CHILLOUT AREA",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":140,
+                 "x":2275.02083333333,
+                 "y":595.244791666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":92,
- "nextobjectid":1,
+ "nextlayerid":95,
+ "nextobjectid":15,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
