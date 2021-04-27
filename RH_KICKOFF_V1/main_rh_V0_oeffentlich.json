@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.formwandler-interactive.com\/robert-half-go-back-to-teams\/?src=facebookads"
+                 "value":"https:\/\/www.formwandler-interactive.com\/?src=facebookads"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.formwandler-interactive.com\/robert-half-karte\/?src=facebookads"
+                 "value":"https:\/\/events.formwandler-interactive.com\/eventarten\/hybridveranstaltung\/?src=facebookads"
                 }],
          "type":"tilelayer",
          "visible":true,
