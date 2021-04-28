@@ -22,7 +22,7 @@
                  "value":"https:\/\/www.formwandler-interactive.com\/robert-half-go-back-to-teams\/?src=facebookads"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":"https:\/\/www.formwandler-interactive.com\/robert-half-karte\/?src=facebookads"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"https:\/\/formwandler-interactive.github.io\/workadventurev1\/RH_KICKOFF_V1\/sounds\/PARTY.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":"sounds\/WAIKIKI.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":"Beachvolleyball"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":"Partysteg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
                  "value":"Strand"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -178,7 +178,7 @@
                  "value":"Oststrand"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
          "name":"collision",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
          "name":"floorbottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -214,7 +214,7 @@
          "name":"BEACH BACKGROUND",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -226,7 +226,7 @@
          "name":"BEACH",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -238,7 +238,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -250,7 +250,7 @@
          "name":"stuffs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -262,7 +262,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -273,7 +273,7 @@
          "name":"abitabove",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -285,7 +285,7 @@
          "name":"VEG",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -297,7 +297,7 @@
          "name":"TOP",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
